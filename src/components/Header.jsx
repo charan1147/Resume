@@ -7,7 +7,7 @@ const Header = () => {
       <h3>MERN Stack Developer</h3>
 
       <div className="header-info">
-        <span>📧 charanchandu@gmail.com</span>
+        <span>📧 charanc1147@gmail.com</span>
         <span>📞 +91 7679363088</span>
         <span>📍 Chengalpattu, TN</span>
       </div>
