@@ -8,7 +8,7 @@ const Projects = () => (
 
     {[
       {
-        title: "Library Management System",
+        title: "Library Management System (May-2025)",
         desc: "Full-stack MERN application for managing book inventory and borrow/return tracking.",
         points: [
           "Implemented CRUD operations",
@@ -18,7 +18,7 @@ const Projects = () => (
         ],
       },
       {
-        title: "Expense Tracker",
+        title: "Expense Tracker (June-2025)",
         desc: "Personal finance app to record and categorize expenses dynamically.",
         points: [
           "Add, view, filter, delete expenses",
@@ -28,7 +28,7 @@ const Projects = () => (
         ],
       },
       {
-        title: "Online Quiz Application",
+        title: "Online Quiz Application (June-July 2025)",
         desc: "Secure quiz platform with scoring and result summaries.",
         points: [
           "JWT authentication",
@@ -38,7 +38,7 @@ const Projects = () => (
         ],
       },
       {
-        title: "Hotel Booking Website",
+        title: "Hotel Booking Website (August-2025)",
         desc: "Responsive booking platform with search and reservation features.",
         points: [
           "Search and filter hotels",
@@ -48,7 +48,7 @@ const Projects = () => (
         ],
       },
       {
-        title: "Real-Time Chat Application",
+        title: "Real-Time Chat Application (October-November-2025)",
         desc: "Real-time messaging app using WebSockets.",
         points: [
           "Socket.io integration",
